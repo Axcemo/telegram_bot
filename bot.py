@@ -1,6 +1,5 @@
 import telebot
-
-TOKEN = '7647401802:AAEcG-EEWBf0P5X1YUKL404OhyeWKHFnYow'
+TOKEN = '7657731654:AAG2uzH4PFB968zABFKhvzyF0ODPZ68qMNg'
 LUFFY_PHOTO = 'https://i.postimg.cc/zv4r5gX0/luffy-girl.jpg'
 
 bot = telebot.TeleBot(TOKEN)
